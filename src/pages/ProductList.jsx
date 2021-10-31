@@ -47,15 +47,25 @@ const ProductList = () => {
             <Title>Our Products</Title>
             <FilterContainer>
                 <Filter><FilterText>Filter Products:</FilterText>
+               <Select>
+                    <Option disabled selected > 
+                    Color</Option>
+                    <Option>White</Option>
+                    <Option>Black</Option>
+                    <Option>Red</Option>
+                    <Option>Blue</Option>
+                    <Option>Yellow</Option>
+                    <Option>Green</Option>
+
+                </Select>
                 <Select>
                     <Option disabled selected > 
-                    All</Option>
-                    <Option>Computer</Option>
-                    <Option>TV</Option>
-                    <Option>Smartphones</Option>
-                    <Option>Laptops</Option>
-                    <Option>Gaming</Option>
-                    <Option>Drones</Option>
+                    Size</Option>
+                    <Option>XS</Option>
+                    <Option>S</Option>
+                    <Option>M</Option>
+                    <Option>L</Option>
+                    <Option>XL</Option>
 
                 </Select>
                
