@@ -11,7 +11,7 @@ export const sliderItems = [
 {
     id:2,
     img: "https://i.ibb.co/RvdJDZk/2172810040-2-1-1.webp",
-    title: "AUTOMN COLLECTION",
+    title: "AUTUMN COLLECTION",
     desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFFFOR NEW ARRIVALS.",
     bg: "d3d3d3",
 
