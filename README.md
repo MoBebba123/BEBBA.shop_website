@@ -1,4 +1,4 @@
-Now i am working on the back-ed of the website, REST API with MongoDB | Shopping API with Stripe & JWT | REDUX 
+Now i am working on the back-end of the website, REST API with MongoDB | Shopping API with Stripe & JWT | REDUX 
 
 
 
