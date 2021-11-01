@@ -1,3 +1,13 @@
+Now i am working on the back-end of the website, REST API with MongoDB | Shopping API with Stripe & JWT | REDUX 
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
